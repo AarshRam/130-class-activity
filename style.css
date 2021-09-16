@@ -1,0 +1,48 @@
+body{
+    background-size: cover;
+}
+
+.title{
+    font-size: 30px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+.note{
+    font-family: 'Anton', sans-serif;
+
+
+font-size: 20px;
+color: darkred;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_speed_image{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed , #volume{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.div_volume{
+    float: right;
+}
+
+.play_button{
+    font-size: 40px;
+    width: 100px;
+    font-family: 'Lobster', cursive;
+}
+
+canvas{
+    border: 10px  whitesmoke;
+    border-style: double dashed dotted solid;
+    border-radius: 30px;
+    margin-top: 150px;
+}
